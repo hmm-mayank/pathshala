@@ -1,0 +1,26 @@
+body {
+    background-color: #337F61;
+}
+
+
+.register-card{
+    border-radius: 25px;
+    margin: 5%;
+   background-color: #EEEFF3;
+        height: 80vh;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.5);
+}
+.background-banner{
+    float: right !
+}
+
+
+.heading-text{
+    color: #0276F9;
+    font-size: 30px;
+    font-weight: bold;
+}
+.input-form{
+    margin-top: 20vh;
+}
+
